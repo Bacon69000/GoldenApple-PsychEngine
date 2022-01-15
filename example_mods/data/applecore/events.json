@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "phone",
+		"player1": "bf",
+		"player2": "bandu",
+		"player3": null,
+		"events": [
+			[
+				73894.2307692307,
+				[
+					[
+						"Change Character",
+						"1",
+						"bandu-sad"
+					]
+				]
+			],
+			[
+				195589.743589743,
+				[
+					[
+						"Change Character",
+						"1",
+						"expunged-bambi"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 156,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "applecore"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sad right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				251,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "phones shake"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bandu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bandu",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
